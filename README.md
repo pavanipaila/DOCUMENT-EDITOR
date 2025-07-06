@@ -25,7 +25,7 @@ This project is a real-time collaborative document editor that allows multiple u
 
 ---
 
-## 🛠 Tools and Technologies Used
+##  Tools and Technologies Used
 
 ### Frontend:
 - **React.js** or **Vue.js**  
